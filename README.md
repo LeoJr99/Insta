@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<iframe src='https://gfycat.com/ifr/AcrobaticElderlyDolphin' frameborder='0' scrolling='no' allowfullscreen width='320' height='700'></iframe>
+<iframe src='https://gfycat.com/ifr/AcrobaticElderlyDolphin' frameborder='0' scrolling='no' allowfullscreen width='320' height='700'> </iframe>
