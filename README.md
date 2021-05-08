@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![2014-10-22 11_35_09](https://i.imgur.com/lS9R8bO.gifv)
+![2014-10-22 11_35_09](https://i.imgur.com/lS9R8bO)
 
 <img src='https://i.imgur.com/lS9R8bO.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
