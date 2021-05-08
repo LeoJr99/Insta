@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -22,4 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<iframe src='https://gfycat.com/ifr/AcrobaticElderlyDolphin' frameborder='0' scrolling='no' allowfullscreen width='320' height='700'> </iframe>
+
+![parsegram walkthrough](https://user-images.githubusercontent.com/29318594/117527416-c58da080-af80-11eb-8c84-03694a240597.gif)
