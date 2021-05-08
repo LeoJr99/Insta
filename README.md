@@ -25,3 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='[Imgur](https://imgur.com/lS9R8bO)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [Imgur](https://imgur.com/lS9R8bO)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="lS9R8bO"><a href="https://imgur.com/lS9R8bO">View post on imgur.com</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
