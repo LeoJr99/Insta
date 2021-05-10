@@ -23,4 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![parsegram walkthrough](https://user-images.githubusercontent.com/29318594/117527416-c58da080-af80-11eb-8c84-03694a240597.gif)
+![parsegram walkthrough](https://media.giphy.com/media/WdlHzpqH7Ex6bPqljZ/giphy.gif)
+
+Link to gif https://media.giphy.com/media/WdlHzpqH7Ex6bPqljZ/giphy.gif
